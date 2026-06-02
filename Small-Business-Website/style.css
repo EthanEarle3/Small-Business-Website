@@ -46,3 +46,20 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
+.service {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #9FBCAD;
+  padding: 10px;
+}
+
+.service div {
+  background-color: #9FBCAD;
+  margin: 10px;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
